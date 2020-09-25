@@ -1,0 +1,15 @@
+사용자 정의 Exception클래스 , DateTime, System.String(문자열처리)
+
+
+
+이미 오류가난 객체를 던지는 것 throw, throw err
+예외가 없는데 만들어서 던지는것 new
+
+사용자정의 예외클래스 : 모든 예외를 공통적으로 처리해 프로그램의 통일성을 높이는데 유용하다
+
+DateTime : datetime 은 구조체이며 값타입임
+	  현재 시간을 찍어주는 Now는 정적속성
+	  DateTime. ==> 정적속성
+	  인스턴스명. ==> 인스턴스메서드
+
+String : Contains() , IndexOf(), Substring(), LastIndexOf(), Concat(). TrimStart(), TrimEnds()
